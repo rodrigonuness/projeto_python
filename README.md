@@ -1,3 +1,4 @@
+Projeto feito para a Cesar School
 Biblioteca de Livros
 
 Este é um programa em Python que permite gerenciar uma biblioteca de livros. Ele oferece funcionalidades como adicionar livros, visualizar livros por categoria, atualizar informações, excluir livros, visualizar extratos por categoria e visualizar livros por autor.
